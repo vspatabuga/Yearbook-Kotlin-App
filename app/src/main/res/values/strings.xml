@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">STROD14NS</string>
+    <string name="people_name">Nama</string>
+    <string name="detail">Detail</string>
+    <string name="list">Home</string>
+    <string name="grid">Grid</string>
+    <string name="data_received">data_received</string>
+    <string name="about">About</string>
+    <string name="home">home</string>
+    <string name="dashboard">dashboard</string>
+    <string name="favorite">favorite</string>
+    <string name="content_specs_display">tempat_lahir</string>
+    <string name="tentang_saya">Tentang Saya</string>
+    <string name="biodata">B i o d a t a</string>
+    <string name="kesan_pesan">Kesan dan Pesan</string>
+    <string name="harapan">\"IDCamp merupakan langkah awal saya untuk menjadi seorang Developer Android yang handal, langkah ini sejalan dengan Cita-cita saya untuk dapat bekerja di Google. Melalui Project Sederhana ini Besar harapan saya agar dapat diberikan Amanah kembali oleh IDCamp untuk melanjutkan ke tingkat Selanjutnya\"</string>
+    <item name="nama_panggilan" type="id" />
+    <item name="detail_people_data" type="id" />
+    <item name="tempat_lahir" type="id" />
+    <item name="tanggal_lahir" type="id" />
+    <item name="institusi" type="id" />
+    <item name="satuan" type="id" />
+    <item name="kesan_pesan" type="id" />
+    <item name="tv_data_received" type="id" />
+    <item name="images" type="id" />
+    <item name="people_images" type="id" />
+</resources>
